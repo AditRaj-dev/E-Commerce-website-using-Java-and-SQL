@@ -5,9 +5,7 @@ The APIs are well-documented and easily accessible through Swagger UI, making it
 
 Tech : HTML & CSS
 
-### Demo Video
 
-https://drive.google.com/file/d/18UVlrKqqAC74TF0j2i6LHuiXTwXfEZcr/view?t=15
 
 ### Screenshots 
 
